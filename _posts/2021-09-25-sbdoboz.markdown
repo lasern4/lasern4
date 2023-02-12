@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Sok boldogságot doboz"
+date:   2021-09-25 15:39:40
+preview: /assets/thumb/sb_doboz.jpg
+---
+
+![Doboz](/assets/img/sb_doboz.jpg)
+
+Sok boldogságot doboz

@@ -5,6 +5,6 @@ date:   2021-04-06 15:39:40
 preview: /assets/thumb/zetor_doboz.jpg
 ---
 
-![Karácsony](/assets/img/zetor_doboz.jpg)
+![Zetor](/assets/img/zetor_doboz.jpg)
 
 Zetor Doboz
