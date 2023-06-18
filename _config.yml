@@ -15,3 +15,5 @@ plugins:
 
 paginate: 9
 paginate_path: "/page:num/"
+
+timezone: Europe/Bratislava
